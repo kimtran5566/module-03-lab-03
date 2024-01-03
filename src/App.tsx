@@ -4,12 +4,15 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Calculator from './Bai-01'
 import CountdownTimer from './Bai-02'
+import SimpleRandomApp from './Bai-03'
+import TemperatureConverter from './Bai-04'
+import TodoListApp from './Bai-05'
 
 function App() {
 
   return (
     <>
-    <CountdownTimer/>
+    <TodoListApp/>
     </>
   )
 }
